@@ -1,0 +1,96 @@
+
+PLANO DE AULA
+ESCOLA: E. E. E. F. Castro Pinto
+PROFESSOR (A): Maria Salete Ferreira de Lima
+ANO: 5° ano
+TURMA: C
+DATA: [Data]
+OBJETIVO GERAL:
+Entender as Disciplinas Curriculares: Português, Matemática, Geografia, Ciência, Religião, História e Artes, no contexto da construção do saber, por meio de abordagens que preparem e habilitem os alunos para a participação na vida cotidiana, alinhadas às dimensões sociais, econômicas, históricas e culturais, fomentando a igualdade e o protagonismo.
+
+Modelo 1: 
+
+UNIDADES TEMÁTICAS OBJETOS DE CONHECIMENTO HABILIDADES DA BNCC
+Estratégia de leitura Roteirizar, produzir e editar vídeo para vlogs argumentativos sobre produtos de mídia para público infantil (filmes, desenhos animados, HQs, games etc.), com base em conhecimentos sobre os mesmos, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto/finalidade do texto. EF05LP18
+Grandezas e medidas Interpretar, descrever e representar a localização ou movimentação de objetos no plano cartesiano (1º quadrante), utilizando coordenadas cartesianas, indicando mudanças de direção e de sentido e giros EF05MA15
+Elementos da linguagem Criar e improvisar movimentos dançados de modo individual, coletivo e colaborativo, considerando os aspectos estruturais, dinâmicos e expressivos dos elementos constitutivos do movimento, com base nos códigos de dança EF15AR11
+METODOLOGIA DE ENSINO:
+
+Promoção de seminários e discussões
+Aprendizagem baseada em problemas
+Estudo de caso
+ATIVIDADES DIDÁTICAS:
+
+Atividades orais e escritas no quadro
+RECURSOS DIDÁTICOS:
+
+Livros paradidáticos, didáticos
+Quadro branco, apagador e lápis
+YouTube
+AVALIAÇÃO:
+Coletiva e individual, avaliando a participação e o envolvimento.
+
+REFERÊNCIAS:
+
+Livro didático: BURITI MAIS
+Livro didático: A CONQUISTA
+Livro didático: ÁPIS MAIS
+-- FIM DO MODELO 1
+
+CONSIDERE:
+(Segunda-feira) - Português, Matemática e Geografia
+(Terça-feira) - Português, Matemática e Geografia
+(Quarta-feira) - Português, Ciencias e Ensino Religioso
+(Quinta-feira) - Português, Matemática e Historia
+(Sexta-feira) - Português, Matemática e Artes
+
+ATENÇÃO: Gere para o dia 06/08/2024 até 09/08/2024, com base nas matérias de cada dia UNIDADES TEMÁTICAS, OBJETOS DE CONHECIMENTO E HABILIDADES DA BNCC, que sirvam para o contexto escolar inserido e com base nas datas comemorativas, considerando os dias úteis (segunda a sexta). Forneça uma acolhida diária (incluindo um vídeo relacionado) e uma leitura deleite (incluindo um link para um vídeo de uma história apropriada), conforme o exemplo abaixo e preencha de cada dia os campos exemplificados acima:
+
+2 de agosto (Sexta-feira) - Português, Matemática e Artes
+ACOLHIDA DIÁRIA
+Vídeo sobre a história dos meios de transporte: https://youtu.be/7T_FzYxUDJg
+LEITURA DELEITE
+A bicicleta mágica: https://youtu.be/d9-yR8N5jlA
+
+Por favor, forneça o plano de aula para a próxima semana usando a seguinte estrutura:
+
+# Acolhida Diária: [Texto e vídeo]
+# Leitura Deleite: [Texto e vídeo]
+
+# Unidades Temática 1 (NÃO EXIBA ESSES NOMES): [Texto]
+# Objetos de Conhecimento 1: [Texto]
+# Habilidades da BNCC 1: [Texto]
+
+# Unidades Temática 2: [Texto]
+# Objetos de Conhecimento 2: [Texto]
+# Habilidades da BNCC 2: [Texto]
+
+# Unidades Temática 3: [Texto]
+# Objetos de Conhecimento 3: [Texto]
+# Habilidades da BNCC 3: [Texto]
+
+Cada campo É separado por um jogo-da-velha (#) e os dados devem seguir a estrutura abaixo. Não inclua nenhum texto extra ou explicativo fora dos campos especificados. Exemplo:
+
+
+# Vídeo sobre a história dos meios de transporte: https://youtu.be/7T_FzYxUDJg
+# A bicicleta mágica: https://youtu.be/d9-yR8N5jlA
+# Construção do sistema alfabético e da ortografia 
+# Recorrer ao dicionário para esclarecer dúvida sobre a escrita de 
+palavras, especialmente no caso de palavras com relações 
+irregulares fonema-grafema. 
+# EF05LP12
+# Figuras geométricas espaciais: reconhecimento, representações, 
+planificações e características 
+# Resolver e elaborar problemas cuja conversão em sentença 
+matemática seja uma igualdade com uma operação em que um dos 
+termos é desconhecido.
+# EF05MA11
+# Diferenças étnico raciais e étnico culturais e desigualdades sociais. 
+# Reconhecer as características da cidade e analisar as interações 
+entre a cidade e o campo e entre cidades na rede urbana. 
+# EF05GE04
+
+
+EXIBA EM FORMATO DE CÓDIGO CADA DIA E EM UMA UNICA LINHA PARA CADA DIA, SEPARANDO SOMENTE POR #!
+
+ENVIE TODOS OS DIAS, PORÉM UM POR VEZ EM SEQUENCIA PARA FACILITAR A COPIA!
