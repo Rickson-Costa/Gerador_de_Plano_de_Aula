@@ -1,7 +1,7 @@
 
 PLANO DE AULA
-ESCOLA: E. E. E. F. Castro Pinto
-PROFESSOR (A): Maria Salete Ferreira de Lima
+ESCOLA: {escola}
+PROFESSOR (A): {nome}
 ANO: 5° ano
 TURMA: C
 DATA: [Data]
